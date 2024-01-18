@@ -1,0 +1,1 @@
+﻿global using static Faerie.Core.Logger.FaerieLogger;
