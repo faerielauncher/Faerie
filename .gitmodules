@@ -1,0 +1,3 @@
+[submodule "Faerie.Core"]
+	path = Faerie.Core
+	url = git@github.com:faerielauncher/Faerie.Core.git
